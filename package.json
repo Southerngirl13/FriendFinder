@@ -1,0 +1,24 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "Friend Finder Homework #13",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Southerngirl13/FriendFinder.git"
+  },
+  "author": "Kimberly Swope",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Southerngirl13/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/Southerngirl13/FriendFinder#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3"
+  }
+}
