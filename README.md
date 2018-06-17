@@ -43,10 +43,6 @@
 3. `htmlRoutes.js`
     * Exports the home page and survey page based on the api path called.
 
-## Left to do
-- when pressing the submit button, error is displayed and the best match does not show. 
-
-
 ## Technologies used
 - Node.js
 - Express NPM Package (https://www.npmjs.com/package/express)
